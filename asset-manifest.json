@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/venkatagopichand1918/student-app/static/css/main.0bb1e92b.css",
+    "main.js": "/venkatagopichand1918/student-app/static/js/main.46a5a91c.js",
+    "static/js/453.8ab44547.chunk.js": "/venkatagopichand1918/student-app/static/js/453.8ab44547.chunk.js",
+    "index.html": "/venkatagopichand1918/student-app/index.html",
+    "main.0bb1e92b.css.map": "/venkatagopichand1918/student-app/static/css/main.0bb1e92b.css.map",
+    "main.46a5a91c.js.map": "/venkatagopichand1918/student-app/static/js/main.46a5a91c.js.map",
+    "453.8ab44547.chunk.js.map": "/venkatagopichand1918/student-app/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bb1e92b.css",
+    "static/js/main.46a5a91c.js"
+  ]
+}
